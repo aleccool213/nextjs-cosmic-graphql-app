@@ -1,5 +1,5 @@
 {
-  "name": "cms-cosmic",
+  "name": "cms-cosmic-graphql-nextjs",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -9,13 +9,11 @@
   "dependencies": {
     "@apollo/client": "^3.1.4",
     "classnames": "2.2.6",
-    "cosmicjs": "^3.2.43",
     "date-fns": "2.14.0",
     "graphql": "^15.3.0",
     "lazysizes": "^5.2.1-rc2",
     "next": "latest",
     "react": "^16.13.1",
-    "react-datocms": "1.2.4",
     "react-dom": "^16.13.1",
     "react-imgix": "^9.0.2",
     "remark": "12.0.0",
