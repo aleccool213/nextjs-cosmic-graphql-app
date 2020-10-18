@@ -3203,11 +3203,6 @@ inherits@2.0.3:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
-intersection-observer@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.10.0.tgz#4d11d63c1ff67e21e62987be24d55218da1a1a69"
-  integrity sha512-fn4bQ0Xq8FTej09YC/jqKZwtijpvARlRp6wxL5WTA6yPe2YWSJ5RJh7Nm79rK2qB0wr6iDQzH60XGq5V/7u8YQ==
-
 invariant@^2.2.2:
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/invariant/-/invariant-2.2.4.tgz#610f3c92c9359ce1db616e538008d23ff35158e6"
@@ -4891,14 +4886,6 @@ randomfill@^1.0.3:
     randombytes "^2.0.5"
     safe-buffer "^5.1.0"
 
-react-datocms@1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/react-datocms/-/react-datocms-1.2.4.tgz#61aa4550ea2d206eebc2d7c82c01c53849c876f3"
-  integrity sha512-emMTK64FQHFD5xt8yVTBZNQO+px8+5rxmtRk1Xl8CKqc5ELsoULvSabJ2zSL9aw7N7ZlD6xYQrWXvQhHWkRemA==
-  dependencies:
-    intersection-observer "^0.10.0"
-    react-intersection-observer "^8.26.1"
-
 react-dom@^16.13.1:
   version "16.14.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.14.0.tgz#7ad838ec29a777fb3c75c3a190f661cf92ab8b89"
@@ -4918,11 +4905,6 @@ react-imgix@^9.0.2:
     react-measure "^2.3.0"
     shallowequal "^1.1.0"
     warning "^4.0.1"
-
-react-intersection-observer@^8.26.1:
-  version "8.29.0"
-  resolved "https://registry.yarnpkg.com/react-intersection-observer/-/react-intersection-observer-8.29.0.tgz#8349a6301bfc24329a029036c6bed30f9864f3ad"
-  integrity sha512-Bqp7GBa5Aieo8C33Bz0e5WuUnFUKN3WOayKMT/2f0ujfW+YpzOEdNE4MK/TnaHp+cisK7n1At3qcFaNPfhHbqw==
 
 react-is@16.13.1, react-is@^16.8.1:
   version "16.13.1"
